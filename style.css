@@ -1,0 +1,92 @@
+body {
+    background: url(https://img4.goodfon.ru/wallpaper/nbig/f/1d/wallpaper-sport-liverpool-fc-anfield-road-football-stadium.jpg)
+    no-repeat bottom center;
+    background-size: 100%;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+ 
+header {
+    border: 2px dashe rgb(240, 235, 235);
+    width: 100%-2px;
+    height: 7%;
+    background-color: darkred;
+}
+
+article {
+    background: url(https://i.pinimg.com/originals/1d/0b/40/1d0b40f6658b100d7141e5ff2a5199d0.png) 
+    no-repeat center;
+    background-size: 100%;
+    border: 2px outset red;
+    width: 30%;
+    min-width: 250px;
+    height: 82%;
+    margin: 9px;
+    opacity: 0.4;
+    color: rgb(248, 244, 244);
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: 1.1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    line-height: 4px;
+}
+
+article:hover {
+    opacity: 1;
+}
+article, aside {
+    display: inline-table;
+}
+
+aside {
+    width: 50%;
+    height: 400px;
+    text-align: justify;
+    margin-left: 200px;
+}
+
+footer {
+    width: 100%-3px;
+    height: 10%;
+}
+
+div{
+    display: inline;
+    position: relative;
+    top: 13px;
+}
+
+.bordInHeader {
+    border: 4px outset red;
+    width: 10%;
+    height: 5%;
+    margin-left: 20px;
+    border-radius: 1px;
+    background-color: darkred;
+    text-align: center;
+    padding: 2px;
+    text-transform: uppercase;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1em;
+    letter-spacing: 3px;
+}
+
+a {
+    color:rgb(253, 249, 249);
+    text-decoration: none;
+}
+
+div:hover {
+    border: 4px inset darkred;
+    background-color: red;
+    text-shadow: 2px 2px 3px yellow;
+}
+
+p {
+    color: blanchedalmond;
+    font-size: 1.0em;
+    text-align: justify top;
+    text-indent: 10px;
+}
